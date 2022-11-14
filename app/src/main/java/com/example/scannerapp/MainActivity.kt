@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
 
         intentIntegrator.initiateScan()
         // Replace with your own java class location here
-        // Replace with your own java class location here
+
         intentIntegrator.setCaptureActivity(CaptureActivity::class.java)
         intentIntegrator.setBeepEnabled(true)
     }

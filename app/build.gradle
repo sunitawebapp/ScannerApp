@@ -47,4 +47,6 @@ dependencies {
 
     // for QR code (Quick Response Code)
     implementation 'com.journeyapps:zxing-android-embedded:4.1.0'
+
+
 }
